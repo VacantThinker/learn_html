@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectId" id="1jPMCdXfDsguNN76jdM4Q8cX4rQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -42,5 +43,23 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1480" height="259" key="GridCell.Tab.0.bottom" timestamp="1603705019448">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state width="1480" height="259" key="GridCell.Tab.0.bottom/0.30.1500.970@0.30.1500.970" timestamp="1603705019448" />
+    <state width="1480" height="259" key="GridCell.Tab.0.center" timestamp="1603705019448">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state width="1480" height="259" key="GridCell.Tab.0.center/0.30.1500.970@0.30.1500.970" timestamp="1603705019448" />
+    <state width="1480" height="259" key="GridCell.Tab.0.left" timestamp="1603705019448">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state width="1480" height="259" key="GridCell.Tab.0.left/0.30.1500.970@0.30.1500.970" timestamp="1603705019448" />
+    <state width="1480" height="259" key="GridCell.Tab.0.right" timestamp="1603705019448">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state width="1480" height="259" key="GridCell.Tab.0.right/0.30.1500.970@0.30.1500.970" timestamp="1603705019448" />
   </component>
 </project>
