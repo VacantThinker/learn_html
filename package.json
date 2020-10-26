@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "git-init": "git init && git remote add origin https://github.com/VacantThinker/learn_html.git",
+    "add-and-commit": "git add . && git commit -m 'update'",
+
+    "push-main": "git checkout main && git push origin main --force",
+
+    "first-push": "npm run git-init && npm run add-and-commit && git branch main",
+    "second-push": "npm run add-and-commit && npm run push-main"
+
+  }
+}
