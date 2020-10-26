@@ -1,5 +1,5 @@
 {
-  "name": "learn_css",
+  "name": "learn_html",
   "homepage": "https://github.com/VacantThinker/learn_html.git",
   "scripts": {
     "git-init": "git init && git remote add origin %npm_package_homepage%",

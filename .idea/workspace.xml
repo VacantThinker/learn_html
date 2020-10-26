@@ -27,6 +27,34 @@
       <recent name="C:\___Code\WebstormProjects\learn_html" />
     </key>
   </component>
+  <component name="RunManager" selected="npm.second">
+    <configuration name="git-checkout-main" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="git-checkout-main" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="second" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="second" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.second" />
+        <item itemvalue="npm.git-checkout-main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -45,21 +73,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1480" height="259" key="GridCell.Tab.0.bottom" timestamp="1603705019448">
+    <state width="1480" height="259" key="GridCell.Tab.0.bottom" timestamp="1603705088968">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
-    <state width="1480" height="259" key="GridCell.Tab.0.bottom/0.30.1500.970@0.30.1500.970" timestamp="1603705019448" />
-    <state width="1480" height="259" key="GridCell.Tab.0.center" timestamp="1603705019448">
+    <state width="1480" height="259" key="GridCell.Tab.0.bottom/0.30.1500.970@0.30.1500.970" timestamp="1603705088968" />
+    <state width="1480" height="259" key="GridCell.Tab.0.center" timestamp="1603705088968">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
-    <state width="1480" height="259" key="GridCell.Tab.0.center/0.30.1500.970@0.30.1500.970" timestamp="1603705019448" />
-    <state width="1480" height="259" key="GridCell.Tab.0.left" timestamp="1603705019448">
+    <state width="1480" height="259" key="GridCell.Tab.0.center/0.30.1500.970@0.30.1500.970" timestamp="1603705088968" />
+    <state width="1480" height="259" key="GridCell.Tab.0.left" timestamp="1603705088967">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
-    <state width="1480" height="259" key="GridCell.Tab.0.left/0.30.1500.970@0.30.1500.970" timestamp="1603705019448" />
-    <state width="1480" height="259" key="GridCell.Tab.0.right" timestamp="1603705019448">
+    <state width="1480" height="259" key="GridCell.Tab.0.left/0.30.1500.970@0.30.1500.970" timestamp="1603705088967" />
+    <state width="1480" height="259" key="GridCell.Tab.0.right" timestamp="1603705088968">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
-    <state width="1480" height="259" key="GridCell.Tab.0.right/0.30.1500.970@0.30.1500.970" timestamp="1603705019448" />
+    <state width="1480" height="259" key="GridCell.Tab.0.right/0.30.1500.970@0.30.1500.970" timestamp="1603705088968" />
   </component>
 </project>
